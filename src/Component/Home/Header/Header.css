@@ -1,0 +1,11 @@
+.header a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.header a:hover{
+    background-color: rgb(90, 95, 75);
+}
+.header{
+    background-color: #9bbb0ff8;
+}
